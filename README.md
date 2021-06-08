@@ -1,5 +1,5 @@
 # Brewdog IPython Notebook
-An IPython Notebook exploring the Punk API (Brewdog's open beer API) with some funky data visualisation.
+An IPython notebook exploring the Punk API (Brewdog's open beer API) with some data visualisation using Plotly.
 
 The notebook grabs beer data from the [Punk API](https://punkapi.com/). This includes such items as ingredients, ABV and IBU.
 
